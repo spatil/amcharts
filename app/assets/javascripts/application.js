@@ -13,4 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require_tree .
+//= require amcharts 
+//= require serial 
+//= require amstock 
+
+//= require home 
