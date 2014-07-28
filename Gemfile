@@ -2,7 +2,6 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-ruby '2.1.0'
 gem 'rails', '4.1.4'
 # Use sqlite3 as the database for Active Record
 # Use SCSS for stylesheets
@@ -51,5 +50,6 @@ group :development do
   gem 'quiet_assets'
   gem 'rails_apps_pages'
   gem 'rails_layout'
+  gem 'mina'
 end
 
